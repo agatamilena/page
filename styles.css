@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Great+Vibes&family=Sacramento&family=Satisfy&display=swap');
+
+body {
+  font-family: Allura, Arial, sans-serif;
+  background: #05c5e3;
+  color: white;
+  text-align: center;
+  font-size: 30px
+}
+
+div {
+  display: flex;
+  flex-direction:row;
+}
+
+ul, ol {
+  margin: 80px;
+}
+
+li {
+  text-align: left;
+}
+
+img {
+  width: 15%;
+  height: auto;
+}
